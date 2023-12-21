@@ -1,6 +1,6 @@
 ## Setup
 
-Before committing new code, in your repo's settings, go to the Pages tab and set the Build and deployment source to Github Actions
+# Before committing new code, in your repo's settings, go to the **Pages** tab and set the **Build and deployment** source to **Github Actions**
 
 ## Developing
 
